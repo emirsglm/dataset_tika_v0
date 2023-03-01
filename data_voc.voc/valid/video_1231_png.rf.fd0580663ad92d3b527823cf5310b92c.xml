@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>video_1231_png.rf.fd0580663ad92d3b527823cf5310b92c.jpg</filename>
+	<path>video_1231_png.rf.fd0580663ad92d3b527823cf5310b92c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>herb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>138</xmax>
+			<ymin>87</ymin>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

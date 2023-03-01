@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>video_1581_png.rf.920a5dbf4f4827699aabe5ee8a00cc09.jpg</filename>
+	<path>video_1581_png.rf.920a5dbf4f4827699aabe5ee8a00cc09.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wild</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>139</xmax>
+			<ymin>144</ymin>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
